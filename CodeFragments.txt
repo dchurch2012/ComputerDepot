@@ -1,0 +1,54 @@
+﻿
+            //lvReporting..DataSource =  reports.report_list;
+            // Create three items and three sets of subitems for each item.
+            lvReporting.View = View.Details;
+            lvReporting.GridLines = true;
+            lvReporting.FullRowSelect = true;
+
+            //Add column header
+            lvReporting.Columns.Add("ProductName", 100);
+            lvReporting.Columns.Add("Price", 70);
+            lvReporting.Columns.Add("Quantity", 70);
+
+            //Add items in the listview
+            string[] arr = new string[4];
+            ListViewItem itm;
+
+            //Add first item
+            arr[0] = "product_1";
+            arr[1] = "100";
+            arr[2] = "10";
+            itm = new ListViewItem(arr);
+            lvReporting.Items.Add(itm);
+
+            //Add second item
+            arr[0] = "product_2";
+            arr[1] = "200";
+            arr[2] = "20";
+            itm = new ListViewItem(arr);
+            lvReporting.Items.Add(itm);
+
+            //Add the items to the ListView.
+            //lvReporting.Items.AddRange(new ListViewItem[] { item1, item2, item3 });
+
+
+			       ListViewItem[] LVItem = null;
+                    LVItem = new ListViewItem[1];
+
+                    LVItem[0] = new ListViewItem();
+
+                    // Add Text To First ListView Item - ProductID
+                    //LVItem[0].SubItems[0].Text = report.ID.ToString();
+                    LVItem[0].SubItems[0].Text = "Sales per Month";
+
+                    //Add IDCount
+                    LVItem[0].SubItems.Add(report.IDCount.ToString());
+
+                    //Add Price
+                    LVItem[0].SubItems.Add(report.Price.ToString());
+
+                    //Add SalesPerUnitTime
+                    LVItem[0].SubItems.Add(report.SalesPerUnitTime.ToString());
+
+                    //Add Total
+                    LVItem[0].SubItems.Add(report.Total.ToString());

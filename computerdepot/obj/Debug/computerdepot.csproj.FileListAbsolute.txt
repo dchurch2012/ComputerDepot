@@ -1,0 +1,41 @@
+C:\Users\TortoiseTek\AppData\Local\Temporary Projects\computerdepot\bin\Debug\computerdepot.exe.config
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\bin\Debug\computerdepot.exe.config
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\bin\Debug\computerdepot.exe
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\bin\Debug\computerdepot.pdb
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Employee_Identification_Number.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Message1.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.NEW_ORDER.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Order_Details.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Properties.Resources.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Ship.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.csproj.GenerateResource.Cache
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.exe
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.pdb
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.ComputerDepotMainForm.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Inventory.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.OrderHistory.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.Shipping_Request.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.csprojResolveAssemblyReference.cache
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.SupplierDetails.resources
+G:\computerdepot\computerdepot\bin\Debug\computerdepot.exe.config
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.exe
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.ComputerDepotMainForm.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Employee_Identification_Number.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Inventory.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Message1.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Order_Details.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.OrderHistory.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Properties.Resources.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Ship.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Shipping_Request.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.SupplierDetails.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.csproj.GenerateResource.Cache
+G:\computerdepot\computerdepot\bin\Debug\computerdepot.exe
+G:\computerdepot\computerdepot\bin\Debug\computerdepot.pdb
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.pdb
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.CustomerForm.resources
+C:\Users\TortoiseTek\Documents\Visual Studio 2012\Projects\computerdepot\computerdepot\obj\Debug\computerdepot.CustomerForm.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.OrderNew.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.csprojResolveAssemblyReference.cache
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.EmployeeInformation.resources
+G:\computerdepot\computerdepot\obj\Debug\computerdepot.Reports.resources

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "computerdepot", "computerdepot.csproj", "{B677D1E0-E5DB-4262-844E-13085233EF62}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject2", "ModelingProject2\ModelingProject2.modelproj", "{BD4A34B8-F3DB-492C-9FF6-C56493AC0B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B677D1E0-E5DB-4262-844E-13085233EF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B677D1E0-E5DB-4262-844E-13085233EF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B677D1E0-E5DB-4262-844E-13085233EF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B677D1E0-E5DB-4262-844E-13085233EF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4A34B8-F3DB-492C-9FF6-C56493AC0B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4A34B8-F3DB-492C-9FF6-C56493AC0B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4A34B8-F3DB-492C-9FF6-C56493AC0B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4A34B8-F3DB-492C-9FF6-C56493AC0B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

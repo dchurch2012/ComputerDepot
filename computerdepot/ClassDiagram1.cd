@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="computerdepot.ProductCategory" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAACAAAACAAAAAAAAAAAAAACCAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.ComputerDepotMainForm" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEgAACAAIAAEAgCkQMADBIAAgCCAkAAIAAEAAEI=</HashCode>
+      <FileName>ComputerDepotMainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Customer" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAEAkAQAhAAAIgAEISIAABCAAABQAAAIAJAAgAEg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.CustomerForm" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cACCAQQAACAQABBAIACAAUIiDsb7AAAIAhQCAAQAAIA=</HashCode>
+      <FileName>CustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Customers" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAYEAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAI=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Database" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAgAAUAAEAAAAAAAAASAAI=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Email" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Email.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Employee_Identification_Number" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAACAAAACAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Employee Identification Number.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Employee" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.EmployeeInformation" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.ErrorReporter" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrorChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Inventory" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAACAAAACAAAAAAAAEAAAAAEAAAA=</HashCode>
+      <FileName>INVENTORY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Message1" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAEAAAAAEAAAA=</HashCode>
+      <FileName>Message1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Order_Details" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQCAAAAEASACAgCCEAKBAIhCIABgAAQAEAAAAEEAAAA=</HashCode>
+      <FileName>OrderDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.OrderHistory" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyAAAAAAACAAAAgAAgCAAADiAwAAAAAAFAAIAIAAAAA=</HashCode>
+      <FileName>OrderHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.OrderNew" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAACCQBIAgAACAAkWLA0Y4AECgUAEJAAQACAA=</HashCode>
+      <FileName>OrderNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Phone" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAAAAAAAAARAAAAAAAAAACAAIAAAAAAAA=</HashCode>
+      <FileName>Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Product" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAASAAAAAAAAAAACwAAZkCAAEAAAAAAAAAAoAAg=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.ProductDebug" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAAAAAAAAAAACAAAJGCAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>ProductDebug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.ProductMaster" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAASAAAAAAEAAAAAwQAQgAAAEAAAAAAAAAAhCAg=</HashCode>
+      <FileName>ProductMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Products" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAABAAAAAAAEAAgAAEAAEAAAAAAAAAAAAI=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.ProductsDebug" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductsDebug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Program" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Reports" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Ship" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAEAAAAAEAAAA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Shipping_Request" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAASAAAACAEACAAAhCIAAIAAAAEAAAAAAAAIA=</HashCode>
+      <FileName>Shipping Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.SupplierDetails" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAASAACBCAEACAAABGIAAAAAAAEAAAAAAAAII=</HashCode>
+      <FileName>SupplierDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Properties.Resources" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="computerdepot.Properties.Settings" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAIAAAAAABAAAAIAAAAAAACAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

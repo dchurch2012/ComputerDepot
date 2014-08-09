@@ -1,0 +1,5 @@
+﻿   <connectionStrings>
+    <add name="computerdepot.Properties.Settings.AmysConnection" connectionString="Data Source=IDEA-PC\AMYLOPES;Initial Catalog=ComputerDepot;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+ 
